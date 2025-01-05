@@ -1,6 +1,7 @@
 body {
     background-color: rgb(193, 219, 245);
     margin: 70px;
+    color-scheme: light; /* Forces light mode rendering */
 }
 
 h1 {
